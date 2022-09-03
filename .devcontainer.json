@@ -1,6 +1,9 @@
 {
    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
    "features": {
-      "github-cli": {}
+      "github-cli": {},
+      "node": {},
+      "docker-in-docker": {},
+      "powershell": {}
    }
 }
